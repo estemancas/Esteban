@@ -1,20 +1,27 @@
 body{
     background-color: black;
 }
-
 #tittle{
     display: flex;
     font-size: 60px;
     justify-content: center;
     color:whitesmoke;
 }
-
-
 #profileInfo{
     color:whitesmoke;
-    font-size: 40px;
     display: flex;
     border-radius: 50px;
     justify-content: space-around;
+}
+.profile{
+    border-radius: 50px;
+}
 
+/* .text{
+    display: flex;
+} */
+p{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
 }

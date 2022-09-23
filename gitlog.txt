@@ -1,0 +1,29 @@
+commit 9908f6bed60a8fece640943ec140f5783fc06aef
+Author: estemancas <esteban.castanoh@gmail.com>
+Date:   Thu Sep 22 22:31:07 2022 -0500
+
+    correccion nombre
+
+commit 16f4b5c739cb0536e355d103c1174792a4dab291
+Author: estemancas <esteban.castanoh@gmail.com>
+Date:   Thu Sep 22 22:16:17 2022 -0500
+
+    se agrega archivo de js, se agrega una nueva imagen y se añade interacciòn  a la hora de tocasr la foto
+
+commit dcf9bde45e302ba0b0c1098d5bbdeec527ee9451
+Author: estemancas <esteban.castanoh@gmail.com>
+Date:   Thu Sep 22 21:22:26 2022 -0500
+
+    algunas otras modificaciones al archivo css
+
+commit 5722fcc2a036546e5629c400dc9ac0d8600459fb
+Author: estemancas <esteban.castanoh@gmail.com>
+Date:   Thu Sep 22 21:07:51 2022 -0500
+
+    este es el segundo commit en este pequeño proyecto, se agrego un archivo css y se modificó el nombre del archivo.
+
+commit e9115cf0faacd9b65012aefa9af89979c3a61a47
+Author: estemancas <esteban.castanoh@gmail.com>
+Date:   Thu Sep 22 20:50:45 2022 -0500
+
+    este es el primer commit que se ha realizado en este repositorio

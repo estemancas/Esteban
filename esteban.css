@@ -25,3 +25,7 @@ p{
     display: flex;
     justify-content: center;
 }
+#foto1{
+    width: 480px;
+    height: 480px;
+}

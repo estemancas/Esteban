@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+#tittle{
+    flex-direction: center;
+    color:whitesmoke;
+}
+
+
+#profile{
+    flex:auto;
+    flex-direction: center;
+    border-radius: 50px;
+
+}

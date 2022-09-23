@@ -3,14 +3,18 @@ body{
 }
 
 #tittle{
-    flex-direction: center;
+    display: flex;
+    font-size: 60px;
+    justify-content: center;
     color:whitesmoke;
 }
 
 
-#profile{
-    flex:auto;
-    flex-direction: center;
+#profileInfo{
+    color:whitesmoke;
+    font-size: 40px;
+    display: flex;
     border-radius: 50px;
+    justify-content: space-around;
 
 }

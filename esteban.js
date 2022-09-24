@@ -1,5 +1,3 @@
-let name = prompt("como te llamas?")
-alert(name + " toca la foto")
 
 const foto = document.getElementById("foto")
 const foto1 =document.getElementById("foto1")

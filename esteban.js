@@ -1,6 +1,6 @@
 let name = prompt("como te llamas?")
-alert(name + " toca la foto")
-
+prompt (name + " te gustaría participar en un reality por el premio gordo?")
+alert("yo soy el premio gordo, toca la foto para ver más ")
 const foto = document.getElementById("foto")
 const foto1 =document.getElementById("foto1")
 foto.addEventListener ('click', siguientefoto)
